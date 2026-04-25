@@ -1,4 +1,4 @@
-# calcule_imc
+# calculadora_imc
 
 🍎 Você Saudável - Calculadora de IMC
 
